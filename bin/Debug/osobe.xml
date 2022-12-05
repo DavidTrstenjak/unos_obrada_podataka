@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Osobe>
+  <Osoba>
+    <Ime>sdfsdfsdfsdf</Ime>
+    <Prezime>sdfsdfsdf</Prezime>
+    <GodRod>2233</GodRod>
+  </Osoba>
+  <Osoba>
+    <Ime>david</Ime>
+    <Prezime>trstenjak</Prezime>
+    <GodRod>2004</GodRod>
+  </Osoba>
+  <Osoba>
+    <Ime>alen</Ime>
+    <Prezime>vincic</Prezime>
+    <GodRod>2004</GodRod>
+  </Osoba>
+  <Osoba>
+    <Ime>alen</Ime>
+    <Prezime>vincic</Prezime>
+    <GodRod>2004</GodRod>
+  </Osoba>
+</Osobe>

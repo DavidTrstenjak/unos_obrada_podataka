@@ -1,0 +1,12 @@
+C:\Users\ucenik\source\repos\LINQ_XML_dokumenti\LINQ_XML_dokumenti\bin\Debug\LINQ_XML_dokumenti.exe.config
+C:\Users\ucenik\source\repos\LINQ_XML_dokumenti\LINQ_XML_dokumenti\bin\Debug\LINQ_XML_dokumenti.exe
+C:\Users\ucenik\source\repos\LINQ_XML_dokumenti\LINQ_XML_dokumenti\bin\Debug\LINQ_XML_dokumenti.pdb
+C:\Users\ucenik\source\repos\LINQ_XML_dokumenti\LINQ_XML_dokumenti\obj\Debug\LINQ_XML_dokumenti.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\LINQ_XML_dokumenti\LINQ_XML_dokumenti\obj\Debug\LINQ_XML_dokumenti.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\LINQ_XML_dokumenti\LINQ_XML_dokumenti\obj\Debug\LINQ_XML_dokumenti.Form1.resources
+C:\Users\ucenik\source\repos\LINQ_XML_dokumenti\LINQ_XML_dokumenti\obj\Debug\LINQ_XML_dokumenti.Properties.Resources.resources
+C:\Users\ucenik\source\repos\LINQ_XML_dokumenti\LINQ_XML_dokumenti\obj\Debug\LINQ_XML_dokumenti.unos.resources
+C:\Users\ucenik\source\repos\LINQ_XML_dokumenti\LINQ_XML_dokumenti\obj\Debug\LINQ_XML_dokumenti.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\LINQ_XML_dokumenti\LINQ_XML_dokumenti\obj\Debug\LINQ_XML_dokumenti.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\LINQ_XML_dokumenti\LINQ_XML_dokumenti\obj\Debug\LINQ_XML_dokumenti.exe
+C:\Users\ucenik\source\repos\LINQ_XML_dokumenti\LINQ_XML_dokumenti\obj\Debug\LINQ_XML_dokumenti.pdb
